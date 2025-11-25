@@ -1,0 +1,22 @@
+# Backend (Spring Boot)
+backend/target/
+backend/.env
+backend/application.properties
+backend/application.yml
+
+# Frontend (React/Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
