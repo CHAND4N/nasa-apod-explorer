@@ -20,19 +20,7 @@ Built with **Spring Boot (Java)** for the backend and **React + Vite** for the f
 - **Frontend**: React, Vite, Axios
 - **API**: NASA APOD API
 - **Build Tools**: Maven, Node.js
-
----
-
-## 📂 Project Structure
-nasa-apod-explorer/ 
-backend/ 
-        # Spring Boot project src/ pom.xml 
-frontend/
-        # React + Vite project src/ package.json 
-.gitignore 
-README.md
-
-
+  
 ---
 
 ## ⚙️ Setup Instructions
